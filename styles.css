@@ -1,0 +1,6 @@
+@media (max-width: 1199px) and (min-width: 769px) {
+  #navbar{
+    align-items:left;
+justify-content:left;
+  }
+}
